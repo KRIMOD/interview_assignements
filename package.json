@@ -1,0 +1,17 @@
+{
+	"name": "alt_assignments",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"scripts": {
+		"dev:test1": "ts-node ./src/test1.ts",
+		"dev:test2": "ts-node ./src/test2.ts"
+	},
+	"devDependencies": {
+		"@types/node": "^18.11.9",
+		"@typescript-eslint/eslint-plugin": "^5.44.0",
+		"@typescript-eslint/parser": "^5.44.0",
+		"eslint": "^8.0.1",
+		"typescript": "*"
+	}
+}
